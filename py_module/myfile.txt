@@ -1,0 +1,5 @@
+user    city    email
+Ana     Amontada    ana@mail.com
+Bia     Barra Nova  bia@mail.com
+Carol   Camocim     carol@mail.com
+Dani    Diadema     dani@mail.com
